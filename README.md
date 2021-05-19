@@ -1,2 +1,2 @@
 # ASL-Model
-Real time signed langauge detection
+Real time sign langauge detection
